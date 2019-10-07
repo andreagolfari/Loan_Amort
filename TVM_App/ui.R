@@ -31,7 +31,7 @@ shinyUI(fluidPage(
                           the application will calculate the complete amortization schedule."),
                         p("Select the output via the tab selector at the top of the main window, to toggle between
                           amortization schedule, a plot of the percentage of payment going toward interest and a summary
-                          table presenting the effective annual rate")
+                          table presenting the effective annual rate.")
                 ),
                 
                 # Main Panel 
